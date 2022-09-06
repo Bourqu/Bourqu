@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Bourqu
+- 👋 Hi, I’m Dylan Bourque
 - 👀 I’m interested in Web Application Security
-- 💞️ I’m looking to collaborate on future Bug Bounties
 - 📫 How to reach me: LinkedIn, Discord 
 
 <!---
