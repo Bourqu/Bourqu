@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dylan Bourque
-- 👀 I’m interested in Web Application Security
+- 👀 I’m interested in Back End Development and Web Application Security
 - 📫 How to reach me: LinkedIn, Discord 
 
 <!---
